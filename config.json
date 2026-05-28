@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachedender",
+        "uuid": 12630024,
+        "checksum": "wyjetd"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
